@@ -1,0 +1,193 @@
+{
+	"groups": [
+		{
+			"keys": "shelongmen_pkg@atlas0_png,shelongmen_pkg_fui,majiang_desk_bg_png",
+			"name": "shelongmen"
+		},
+		{
+			"keys": "CARD2_png,CARD1_png,CARD3_png,RED0_png,cardback_big_png,RED1_png,RED2_png,RED3_png,RED4_png,RED5_png,RED6_png,RED7_png,RED8_png,RED9_png,RED11_png,RED12_png,BLACK0_png,BLACK3_png,BLACK2_png,BLACK1_png,BLACK5_png,BLACK6_png,BLACK7_png,BLACK4_png,BLACK8_png,BLACK9_png,BLACK10_png,BLACK11_png,BLACK12_png,CARD0_png,RED10_png",
+			"name": "card"
+		},
+		{
+			"keys": "loading_pkg_fui",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/shelongmen_pkg@atlas0.png",
+			"type": "image",
+			"name": "shelongmen_pkg@atlas0_png"
+		},
+		{
+			"url": "assets/card/BLACK0.png",
+			"type": "image",
+			"name": "BLACK0_png"
+		},
+		{
+			"url": "assets/card/BLACK1.png",
+			"type": "image",
+			"name": "BLACK1_png"
+		},
+		{
+			"url": "assets/card/BLACK10.png",
+			"type": "image",
+			"name": "BLACK10_png"
+		},
+		{
+			"url": "assets/card/BLACK11.png",
+			"type": "image",
+			"name": "BLACK11_png"
+		},
+		{
+			"url": "assets/card/BLACK12.png",
+			"type": "image",
+			"name": "BLACK12_png"
+		},
+		{
+			"url": "assets/card/BLACK2.png",
+			"type": "image",
+			"name": "BLACK2_png"
+		},
+		{
+			"url": "assets/card/BLACK3.png",
+			"type": "image",
+			"name": "BLACK3_png"
+		},
+		{
+			"url": "assets/card/BLACK4.png",
+			"type": "image",
+			"name": "BLACK4_png"
+		},
+		{
+			"url": "assets/card/BLACK5.png",
+			"type": "image",
+			"name": "BLACK5_png"
+		},
+		{
+			"url": "assets/card/BLACK6.png",
+			"type": "image",
+			"name": "BLACK6_png"
+		},
+		{
+			"url": "assets/card/BLACK7.png",
+			"type": "image",
+			"name": "BLACK7_png"
+		},
+		{
+			"url": "assets/card/BLACK8.png",
+			"type": "image",
+			"name": "BLACK8_png"
+		},
+		{
+			"url": "assets/card/BLACK9.png",
+			"type": "image",
+			"name": "BLACK9_png"
+		},
+		{
+			"url": "assets/card/CARD0.png",
+			"type": "image",
+			"name": "CARD0_png"
+		},
+		{
+			"url": "assets/card/CARD1.png",
+			"type": "image",
+			"name": "CARD1_png"
+		},
+		{
+			"url": "assets/card/CARD2.png",
+			"type": "image",
+			"name": "CARD2_png"
+		},
+		{
+			"url": "assets/card/CARD3.png",
+			"type": "image",
+			"name": "CARD3_png"
+		},
+		{
+			"url": "assets/card/RED0.png",
+			"type": "image",
+			"name": "RED0_png"
+		},
+		{
+			"url": "assets/card/RED1.png",
+			"type": "image",
+			"name": "RED1_png"
+		},
+		{
+			"url": "assets/card/RED10.png",
+			"type": "image",
+			"name": "RED10_png"
+		},
+		{
+			"url": "assets/card/RED11.png",
+			"type": "image",
+			"name": "RED11_png"
+		},
+		{
+			"url": "assets/card/RED12.png",
+			"type": "image",
+			"name": "RED12_png"
+		},
+		{
+			"url": "assets/card/RED2.png",
+			"type": "image",
+			"name": "RED2_png"
+		},
+		{
+			"url": "assets/card/RED3.png",
+			"type": "image",
+			"name": "RED3_png"
+		},
+		{
+			"url": "assets/card/RED4.png",
+			"type": "image",
+			"name": "RED4_png"
+		},
+		{
+			"url": "assets/card/RED5.png",
+			"type": "image",
+			"name": "RED5_png"
+		},
+		{
+			"url": "assets/card/RED6.png",
+			"type": "image",
+			"name": "RED6_png"
+		},
+		{
+			"url": "assets/card/RED7.png",
+			"type": "image",
+			"name": "RED7_png"
+		},
+		{
+			"url": "assets/card/RED8.png",
+			"type": "image",
+			"name": "RED8_png"
+		},
+		{
+			"url": "assets/card/RED9.png",
+			"type": "image",
+			"name": "RED9_png"
+		},
+		{
+			"url": "assets/card/cardback_big.png",
+			"type": "image",
+			"name": "cardback_big_png"
+		},
+		{
+			"url": "assets/shelongmen_pkg.fui",
+			"type": "bin",
+			"name": "shelongmen_pkg_fui"
+		},
+		{
+			"url": "assets/loading_pkg.fui",
+			"type": "bin",
+			"name": "loading_pkg_fui"
+		},
+		{
+			"url": "assets/majiang_desk_bg.png",
+			"type": "image",
+			"name": "majiang_desk_bg_png"
+		}
+	]
+}
